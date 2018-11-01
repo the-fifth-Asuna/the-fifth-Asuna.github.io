@@ -1,0 +1,3 @@
+git init
+git add LICENSE.md
+git remote add origin https://github.com/the-fifth-Asuna/the-fifth-Asuna.github.io.git
